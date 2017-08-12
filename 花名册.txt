@@ -335,10 +335,11 @@ sam             loser from 山东
 ming
 sean            喜欢深海的鱼
 anna            kick off
-Roy             CAN
-subvertion      什么都懂点什么都不精通的在校码农
+Roy             CAN
+subvertion    0  什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+f0rg3tf1sh      未来的程序员
